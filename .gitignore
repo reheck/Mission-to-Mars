@@ -1,7 +1,8 @@
 #add additional files to ignore
 Mission_to_Mars.ipynb
 practice_scraping.ipynb
-
+ChallengeNotes.ipynb
+Mission_to_Mars_Challenge.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
